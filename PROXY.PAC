@@ -1,3 +1,3 @@
 function FindProxyForURL(url, host) {
-	return "DIRECT; SOCKS 127.0.0.1:443" 
+	return "DIRECT; SOCKS 192.168.1.9:443" 
 }
